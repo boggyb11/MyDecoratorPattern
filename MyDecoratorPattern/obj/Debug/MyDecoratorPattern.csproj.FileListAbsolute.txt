@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\MyDecoratorPattern\MyDecoratorPattern\bin\Debug\MyDecoratorPattern.exe
+C:\Users\ben\source\repos\MyDecoratorPattern\MyDecoratorPattern\bin\Debug\MyDecoratorPattern.pdb
+C:\Users\ben\source\repos\MyDecoratorPattern\MyDecoratorPattern\obj\Debug\MyDecoratorPattern.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MyDecoratorPattern\MyDecoratorPattern\obj\Debug\MyDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MyDecoratorPattern\MyDecoratorPattern\obj\Debug\MyDecoratorPattern.exe
+C:\Users\ben\source\repos\MyDecoratorPattern\MyDecoratorPattern\obj\Debug\MyDecoratorPattern.pdb
